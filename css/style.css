@@ -55,7 +55,6 @@ label{
 }
 .wrapper.active{
     height: 480px;
-    width: 350px;
 }
 .wrapper #login-form{
     transition: transform 0.5s ease;
